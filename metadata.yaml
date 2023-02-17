@@ -1,0 +1,26 @@
+_repo: Sparlakanslaxor_69905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moser, Gustav von
+    gutenberg_agent_id: '55486'
+    url: http://www.gutenberg.org/2009/agents/55486
+description: ''
+gutenberg_issued: '2023-01-29'
+identifiers:
+  gutenberg: '69905'
+language: sv
+pgterms:marc905: 20091101020436vonmoser
+pgterms:marc906: '1910'
+pgterms:marc907: se
+production_note: Charlene Taylor, ronnie sahlberg and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: 'Sweden: Albert Bonniers Förlag,1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sparlakansläxor
+url: http://www.gutenberg.org/ebooks/69905
